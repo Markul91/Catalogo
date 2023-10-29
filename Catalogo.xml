@@ -20,6 +20,24 @@
       <Tags />
     </Mod>
     <Mod>
+      <ID>9f9c9762-9458-4e23-bd2d-fad39dd8b0e9</ID>
+      <Author>Markul</Author>
+      <Link>https://www.nexusmods.com/finalfantasy7/mods/100</Link>
+      <LatestVersion>
+        <DownloadSize>0</DownloadSize>
+        <Link>iros://MegaSharedFolder/https://mega.nz/folder/25QlBSZI#aqc7h1kXH9kkfX6TYsnOAQ,vxQziZAY,Mod Avatares Sheikul.iro</Link>
+        <Version>1</Version>
+        <ReleaseDate>2023-10-29T17:43:01.5919124+02:00</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.ibb.co/rpsVXLF/Des-preview.png</PreviewImage>
+      </LatestVersion>
+      <MetaVersion>0</MetaVersion>
+      <Name>Avatares Shei-kul</Name>
+      <Description>Mod que actualiza los avatares de los personajes en el menu del juego. Diseño de arte de los personajes : Sheilenwei.</Description>
+      <Category>User Interface</Category>
+      <Tags />
+    </Mod>
+    <Mod>
       <ID>c72fe745-29d9-4bb3-9194-1af43dca6fcc</ID>
       <Author>Markul</Author>
       <Link>http://forums.qhimm.com/index.php?topic=19022.0</Link>
