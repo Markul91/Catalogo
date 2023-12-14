@@ -14,12 +14,12 @@
         <PreviewImage>https://i.ibb.co/HzSYf2N/ABF.png</PreviewImage>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
-      <Name>Avatares:Before Crisis</Name>
+      <Name>Avatares: Before Crisis</Name>
       <Description>Set de avatares para el menu, originales del FF7 Before Crisis</Description>
       <Category>Field Models</Category>
       <Tags />
     </Mod>
-    <Mod>
+ <Mod>
       <ID>9f9c9762-9458-4e23-bd2d-fad39dd8b0e9</ID>
       <Author>Markul</Author>
       <Link>https://www.nexusmods.com/finalfantasy7/mods/100</Link>
@@ -152,7 +152,7 @@ Aún es una versión incompleta, aunque el juego está modificado de principio a
 Para la versión 0.9, he realizado una partida completa de principio a fin y no he detectado errores graves, por lo que el mod lo considero jugable de principio a fin, aunque es posible que surja algún error extraño en ciertas partidas o por nuevas incompatibilidades con otros mods, en ese caso, hacédmelo saber para corregirlo. 
 **Algunos personajes no pueden cambiar de nombre en la partida**
 https://forums.qhimm.com/index.php?topic=20644.0
-
+ 
  </Description>
       <Category>Miscellaneous</Category>
       <Tags />
@@ -172,13 +172,42 @@ https://forums.qhimm.com/index.php?topic=20644.0
       <MetaVersion>0</MetaVersion>
       <Name>Saint Fantasy</Name>
       <Description>Este mod da la posibilidad de añadir un cambio de aspecto en los modelos de batalla, de campo y del mapamundi de los personajes.
-
+ 
   ------------------
 This mod gives the posibility to change the battle ,field and worldmap models of the main characters.
-
+ 
  </Description>
       <Category>Miscellaneous</Category>
       <Tags />
     </Mod>
+	<Mod>
+      <ID>9f9c9762-9458-4e23-bd1d-fad39dd8c5e9</ID>
+      <Author>Markul</Author>
+      <Link>https://forums.qhimm.com/index.php?topic=20644.0</Link>
+      <LatestVersion>
+        <DownloadSize>0</DownloadSize>
+        <Link>iros://MegaSharedFolder/https://mega.nz/folder/25QlBSZI#aqc7h1kXH9kkfX6TYsnOAQ,Dt4XSKzD,Mod Des-Enlace_Eng.iro</Link>
+        <Version>0.941</Version>
+        <ReleaseDate>2023-12-12T00:00:00</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://raw.githubusercontent.com/Markul91/Catalogo/fc15d020bad1798df8bf2de76434274506a350c6/Des_preview.png</PreviewImage>
+      </LatestVersion>
+      <MetaVersion>0</MetaVersion>
+      <Name>Mod Des-Enlace (English-Beta)</Name>
+      <Description> *This is a Spanish mod that I translate to English, the best as i could, so dont expect too much quality for the new dialogs,this is what it is :/ *
+  **If you use other mods, the Mod Des-Enlace must be placed at the top of the list for it to work correctly, as it alters resources such as avatars, maps, models, etc. But it is optimized for the best possible compatibility with other activated mods.
+ 
+  In this mod all kinds of modifications are applied: new retranslation of the game(spanish only, in english is the OG traduction of steam)  with a new aesthetic, new avatar designs for characters (OG and exclusive to the mod), new stories, new events, enemies, characters, challenges, etc.. This mod changes, and expands, massively, the original game.
+It is still an incomplete version, although the game is modified from start to finish, but in my plans are to make one last big story expansion at the end of the game. 
+For version 0.9, I have made a complete game from start to finish and I have not detected serious errors, so I consider the mod playable from start to finish, although it is possible that some strange errors arise in certain games or new incompatibilities with other mods, in that case, let me know to correct it. 
+**Some characters cannot change their name in the game**.
+ </Description>
+      <Category>Miscellaneous</Category>
+      <Tags />
+    </Mod>
+    
   </Mods>
-</Catalog>
+
+    </Catalog>
+
+RAW Paste Data 
