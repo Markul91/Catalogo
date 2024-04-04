@@ -196,7 +196,36 @@ For version 0.9, I have made a complete game from start to finish and I have not
       <Category>Miscellaneous</Category>
       <Tags />
     </Mod>
-    
+    <Mod>
+      <ID>6a1cf177-537b-4d24-b797-6d454a14f3c9</ID>
+      <Author>Markul</Author>
+      <Link>https://forums.qhimm.com/index.php?topic=20644.0</Link>
+      <LatestVersion>
+        
+        <Link>iros://MegaSharedFolder/folder/25QlBSZI#aqc7h1kXH9kkfX6TYsnOAQ,etpQkSTJ,Triple Triad 7.iro</Link>
+        <Version>2.0</Version>
+        <ReleaseDate>2023-12-12T00:00:00</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://raw.githubusercontent.com/Markul91/Catalogo/fc15d020bad1798df8bf2de76434274506a350c6/Des_preview.png</PreviewImage><DownloadSize>1</DownloadSize>       </LatestVersion>
+      <MetaVersion>0</MetaVersion>
+      <Name>Triple Triad 7 [Beta]</Name>
+     <Description>[ESP] 
+  Este mod tiene compatibilidades en ingles y español actualmente. El mod incluira el mitico minijuego del Triple Triad (hecho de 0 en el FF7 ,por lo que tiene ciertas diferencias funcionales con respecto al FF8) .Algunos NPC del juego te permitira desafiarlos(por ejemplo en el Sector 7,en la sala de principiantes,en mercado muro, o en el Highwind),para esto, interactuad con ellos manteniendo pulsado la tecla [PAGE DOWN] o [R1].En la regla elemental las cartas colocadas en espacios de su mismo elemento,tienen un bonus de +1 ,por el contrario si se colocan en espacios de elementos opuestos reciben un -1 (ejemplo fuego y agua son contrarios entre si, al igual que tierra y electricidad).
+  Hay 31 NPC con los que poder interactuar,actualmente.Los encontraras por zonas de Midgar, el Vientofuerte, el desierto de Corel, Junon,Costa del Sol y más sitios (no todos los pueblos tienen desafios de Triple Triad)
+  Por si quereis realizar un donativo por el trabajo realizado en el catalogo de mods: https://www.paypal.com/donate/?hosted_button_id=ZKPAMV6C9KEEW
+  [ENG]
+  This mod has English and Spanish compatibilities at the moment. The mod will include the mythical Triple Triad mini-game (made from 0 in FF7, so it has some functional differences with respect to FF8). Some NPCs in the game will allow you to challenge them (for example in Sector 7, in the beginners room, in the market wall, or in the Highwind), for this, interact with them by holding down the [PAGE DOWN] or [R1] key. In the elemental rule, cards placed in spaces of the same element have a bonus of +1, on the contrary, if they are placed in spaces of opposite elements they receive a -1 (e.g. fire and water are contrary to each other, as well as earth and electricity).
+  There are 31 NPCs to interact with, currently, you will find them in areas of Midgar, the Highwind, the Corel Desert, Junon, Costa del Sol and more (not all towns have Triple Triad challenges).
+  In case you would like to make a donation for the work done on the mods catalog: : https://www.paypal.com/donate/?hosted_button_id=ZKPAMV6C9KEEW
+  
+  
+  PD: Este es mi último mod,el único proyecto de Triple Triad funcional y finalizado,que integra el minijuego en el FF7, sin complementos externos, gracias a la herramienta Makou Reactor (a excepción de las imagenes de las cartas, que se cargan dinamicamente gracias al 7th Heaven), no crearé más contenido a partir de aquí,se me han acabado las pilas. Espero que lo disfrutéis.
+  No doy permiso para que este mod se extraiga para incluirlo en otros mods,sin excepciones(ya sea las cartas o el codigo),lo cree expresamente para que cualquier mod pueda integrarse a el mientras esté activado. 
+https://forums.qhimm.com/index.php?topic=20644.0
+ </Description>
+      <Category>Miscellaneous</Category>
+      <Tags />
+    </Mod>
   </Mods>
 
     </Catalog>
