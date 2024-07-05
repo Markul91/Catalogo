@@ -244,6 +244,24 @@ https://forums.qhimm.com/index.php?topic=20644.0
       <Category>Gameplay</Category>
       <Tags />
     </Mod>
+	  <Mod>
+      <ID>669f9442-2ae8-4de5-b3a7-7099de769e97</ID>
+      <Author>gjoerulv Hardcore Mod Español</Author>
+      <Link>https://forums.qhimm.com/index.php?topic=27029.msg</Link>
+      <LatestVersion>
+        
+        <Link>iros://MegaSharedFolder/folder/25QlBSZI#aqc7h1kXH9kkfX6TYsnOAQ,,Hardcore ESP.iro</Link>
+        <Version>0</Version>
+        <ReleaseDate>2007-06-23</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.ibb.co/b3pKfM4/iFNDVAP.png</PreviewImage>
+	<DownloadSize>1</DownloadSize>       </LatestVersion>
+      <MetaVersion>0</MetaVersion>
+      <Name>gjoerulv Hardcore Mod Español</Name>
+      <Description>Básicamente aumenta la dificultad del juego. Este mod se esfuerza principalmente en refrescar la jugabilidad ciñéndose a los ajustes originales, PERO también retoca algunas IA enemigas, efectos de hechizos, equipamientos, etc, por diferentes razones. Por ejemplo, hay bastantes errores en la IA y en los scripts . La mayoría de ellos han sido corregidos. Además, muchos equipamientos, hechizos y habilidades enemigas son inútiles, se han quedado obsoletos y/o son demasiado potentes o baratos. Por lo tanto, algunos equipos y efectos de ataque se han ajustado en un intento de equilibrar las cosas. Dicho esto, tened en cuenta que las cosas se han mantenido lo más cerca posible del original a la vez que se ha refrescado la jugabilidad. Para aquellos de vosotros que no queráis un nuevo FF7, sino un FF7 renovado y más difícil.</Description>
+      <Category>Gameplay</Category>
+      <Tags />
+    </Mod>
   </Mods>
 
     </Catalog>
