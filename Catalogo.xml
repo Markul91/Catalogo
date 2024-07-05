@@ -226,9 +226,9 @@ https://forums.qhimm.com/index.php?topic=20644.0
       <Category>Miscellaneous</Category>
       <Tags />
     </Mod>
- <Mod>
+<Mod>
       <ID>679f9442-2ae8-4de5-b3a7-7099de769e97</ID>
-      <Author>Sega Chief Traductor Markul</Author>
+      <Author>Sega Chief  Traductor: Markul</Author>
       <Link>http://forums.qhimm.com/index.php?topic=14938.0</Link>
       <LatestVersion>
         
@@ -246,7 +246,7 @@ https://forums.qhimm.com/index.php?topic=20644.0
     </Mod>
 	  <Mod>
       <ID>669f9442-2ae8-4de5-b3a7-7099de769e97</ID>
-      <Author>gjoerulv Hardcore Mod Español</Author>
+      <Author>gjoerulv Traductor:Markul</Author>
       <Link>https://forums.qhimm.com/index.php?topic=27029.msg</Link>
       <LatestVersion>
         
@@ -262,6 +262,7 @@ https://forums.qhimm.com/index.php?topic=20644.0
       <Category>Gameplay</Category>
       <Tags />
     </Mod>
+  </Mods>
   </Mods>
 
     </Catalog>
