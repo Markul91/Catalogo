@@ -226,6 +226,24 @@ https://forums.qhimm.com/index.php?topic=20644.0
       <Category>Miscellaneous</Category>
       <Tags />
     </Mod>
+ <Mod>
+      <ID>0d386420-d581-4ea6-a4cx-5dbe5e6fbaa5</ID>
+      <Author>Sega Chief Traductor: Markul</Author>
+      <Link>http://forums.qhimm.com/index.php?topic=14938.0</Link>
+      <LatestVersion>
+        
+        <Link>iros://MegaSharedFolder/folder/25QlBSZI#aqc7h1kXH9kkfX6TYsnOAQ,,True necrosis ESP.iro</Link>
+        <Version>0</Version>
+        <ReleaseDate>2022-06-12T00:00:00</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.ibb.co/YbN7XNP/1.png</PreviewImage>
+	<DownloadSize>1</DownloadSize>       </LatestVersion>
+      <MetaVersion>0</MetaVersion>
+      <Name>True Necrosis Mod Español</Name>
+      <Description>Mod de Desafío: Empieza con 9999PV/PM, ¡pero no hay forma de recuperarlos!</Description>
+      <Category>Gameplay</Category>
+      <Tags />
+    </Mod>
   </Mods>
 
     </Catalog>
