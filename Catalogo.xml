@@ -261,5 +261,22 @@ https://forums.qhimm.com/index.php?topic=20644.0
       <Category>Gameplay</Category>
       <Tags />
     </Mod>
+	<Mod>
+      <ID>efc4bc61-7f80-4635-b583-f52c5c9d239f</ID>
+      <Author>Sega Chief Traductor: Markul</Author>
+      <Link>https://forums.qhimm.com/index.php?topic=27029.msg</Link>
+      <LatestVersion>
+        <Link>iros://MegaSharedFolder/folder/25QlBSZI#aqc7h1kXH9kkfX6TYsnOAQ,,nt2esp.iro</Link>
+        <Version>2.099994</Version>
+        <ReleaseDate>2024-08-16</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.ibb.co/mhzPtYJ/nt-preview.png</PreviewImage>
+	<DownloadSize>1</DownloadSize>       </LatestVersion>
+      <MetaVersion>0</MetaVersion>
+      <Name>New Threat 2.0 Español</Name>
+      <Description>Un extenso mod de reequilibrio y contenido del juego, reconstruido. Traducido al Español.</Description>
+      <Category>Gameplay</Category>
+      <Tags />
+    </Mod>  
   </Mods>
    </Catalog>
