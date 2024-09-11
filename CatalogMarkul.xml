@@ -33,7 +33,7 @@
         <PreviewImage>https://i.ibb.co/5W3TyNV/mod-preview.png</PreviewImage><DownloadSize>1</DownloadSize>       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>[ESP]Rebeerth Mod </Name>
-      <Description>Una recreacion de los mapas de la Posada de la Abeja original, modificados e integrados para poder acceder durante la partida.
+      <Description>Una recreacion de los mapas de la Posada de la Abeja original, modificados e integrados para poder acceder durante la partida. Compatible con el mod New Threat 1.5
 </Description>
       <Category>Miscellaneous</Category>
       <Tags />
@@ -51,7 +51,7 @@
         <PreviewImage>https://i.ibb.co/5W3TyNV/mod-preview.png</PreviewImage><DownloadSize>1</DownloadSize>       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>[ENG]Rebeerth Mod </Name>
-      <Description>A recreation of the unused Honey Bee Inn maps.
+      <Description>A recreation of the unused Honey Bee Inn maps.Its compatible with OG andthe mod New Threat 1.5
 </Description>
       <Category>Miscellaneous</Category>
       <Tags />
@@ -80,7 +80,7 @@
       <LatestVersion>
         
         <Link>iros://MegaSharedFolder/folder/25QlBSZI#aqc7h1kXH9kkfX6TYsnOAQ,GoZXEYpL,Mod Elemental.iro</Link>
-        <Version>1.4</Version>
+        <Version>1.41</Version>
         <ReleaseDate>2022-05-06T00:00:00</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.ibb.co/wrDcSXS/Des-preview.jpg</PreviewImage><DownloadSize>1</DownloadSize>       </LatestVersion>
