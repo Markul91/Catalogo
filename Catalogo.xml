@@ -11,7 +11,9 @@
         <Version>1.1</Version>
         <ReleaseDate>2023-10-29T17:43:01.5919124+02:00</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.ibb.co/NNSMGkt/Des-preview.png</PreviewImage><DownloadSize>1</DownloadSize>       </LatestVersion>
+        <PreviewImage>https://i.ibb.co/NNSMGkt/Des-preview.png</PreviewImage>
+	<DownloadSize>1850</DownloadSize>  
+      </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Avatares Shei-kul</Name>
       <Description>Mod que actualiza los avatares de los personajes en el menu del juego. Diseño de arte de los personajes : Sheilenwei.</Description>
