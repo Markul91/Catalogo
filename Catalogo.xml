@@ -1,38 +1,13 @@
 <?xml version="1.0"?>
 <Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Catalogo Markul 2">
-  <Mods>
-    <Mod>
-<ID>c8234df3-ff27-4df4-8cb2-70e7bb021d80</ID>
-<Author>Vertex2995, Uprisen, Sega Chief</Author>
-<Link>https://github.com/tangtang95/ff7-60fps-nt-plugin-mod</Link>
-<LatestVersion>
-<Link>iros://Url/https$github.com/tangtang95/ff7-60fps-nt-plugin-mod/releases/download/v1.03/ff7-60fps-nt-plugin-mod.ESP.iro</Link>
-<Version>1.03</Version>
-<ReleaseDate>2022-05-02</ReleaseDate>
-<CompatibleGameVersions>All</CompatibleGameVersions>
-<PreviewImage/>
-<ReleaseNotes>REQUIERE "New Threat 2.0 [ESP]" Y "60 FPS Gameplay" </ReleaseNotes>
-<DownloadSize>8572</DownloadSize>
-</LatestVersion>
-<Name>60/30 FPS Animations for New Threat 2.0 (ESP)</Name>
-<Category>Animations</Category>
-<Description>Compatibilidad del mod New Threat 2.0 [ESP] con el mod 60 FPS Gameplay. Ambos «Full 30 FPS» y «Full 60 FPS» de 60 FPS Gameplay mod están disponibles (Se puede cambiar en las opciones de configuración del mod).</Description>
-<Tags>
-<string>60</string>
-<string>fps</string>
-<string>Animations</string>
-<string>Vertex2995</string>
-<string>Uprisen</string>
-<string>Sega Chief</string>
-</Tags>
-</Mod>
+  <Mods>  
  <Mod>
       <ID>9f9c9762-9458-4e23-bd2d-fad39dd8b0e9</ID>
       <Author>Markul</Author>
       <Link>https://www.nexusmods.com/finalfantasy7/mods/100</Link>
       <LatestVersion>
         
-        <Link>iros://MegaSharedFolder/folder/25QlBSZI#aqc7h1kXH9kkfX6TYsnOAQ,vxQziZAY,Mod Avatares Sheikul.iro</Link>
+        <Link>iros://GDrive/1e5uPl-qvC-qUD-EDrjmnQ25B5Prq3Iow</Link>
         <Version>1.1</Version>
         <ReleaseDate>2023-10-29T17:43:01.5919124+02:00</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -85,7 +60,7 @@
       <Link>https://www.nexusmods.com/finalfantasy7/mods/39/</Link>
       <LatestVersion>
         
-        <Link>iros://MegaSharedFolder/folder/25QlBSZI#aqc7h1kXH9kkfX6TYsnOAQ,CpRBVYzZ,FF7 NT 1-5 IRO.iro</Link>
+        <Link>iros://GDrive/1St0ign0xrsLxgbinSnr7pYnEt0ZaY_N2</Link>
         <Version>1.56</Version>
         <ReleaseDate>2022-06-12T00:00:00</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -102,7 +77,7 @@
       <Link>https://forums.qhimm.com/index.php?topic=20644.0</Link>
       <LatestVersion>
         
-        <Link>iros://MegaSharedFolder/folder/25QlBSZI#aqc7h1kXH9kkfX6TYsnOAQ,GoZXEYpL,Mod Elemental.iro</Link>
+        <Link>iros://GDrive/1JjhODQYQwUQXGdR9PhlT4_gMto-AKdY2</Link>
         <Version>1.41</Version>
         <ReleaseDate>2022-05-06T00:00:00</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -120,7 +95,7 @@
       <Link>https://www.nexusmods.com/finalfantasy7/mods/39</Link>
       <LatestVersion>
         
-        <Link>iros://MegaSharedFolder/folder/25QlBSZI#aqc7h1kXH9kkfX6TYsnOAQ,G8JQBbIb,60FPS New Threat 1.5.iro</Link>
+        <Link>iros://GDrive/1VpjIGdyCjSdMjlssmI_ouJOumU9sRBry</Link>
         <Version>1.1</Version>
         <ReleaseDate>2023-03-04T00:00:00</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -138,7 +113,7 @@
       <Link>https://forums.qhimm.com/index.php?topic=20644.0</Link>
       <LatestVersion>
         
-        <Link>iros://MegaSharedFolder/folder/25QlBSZI#aqc7h1kXH9kkfX6TYsnOAQ,mtRj1a5T,Mod Des-Enlace.iro</Link>
+        <Link>iros://GDrive/1Gbe8hFTb-MS0GLWbFDKEwPAJWvyY_53K</Link>
         <Version>0.946</Version>
         <ReleaseDate>2022-12-06T00:00:00</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -160,10 +135,10 @@ https://forums.qhimm.com/index.php?topic=20644.0
     <Mod>
       <ID>9f9c9762-8458-4e23-bd1d-fad39dd8b5e9</ID>
       <Author>Markul</Author>
-      <Link> http://forums.qhimm.com/index.php?topic=20262.0</Link>
+      <Link>http://forums.qhimm.com/index.php?topic=20262.0</Link>
       <LatestVersion>
         
-        <Link>iros://MegaSharedFolder/folder/25QlBSZI#aqc7h1kXH9kkfX6TYsnOAQ,mhQBUaZA,Mod Saint Fantasy 2_0_1.iro</Link>
+        <Link>iros://GDrive/1uLnX2aDB-rfd4aVnv8rVVB8qqTj3JEmW</Link>
         <Version>2.2</Version>
         <ReleaseDate>2022-12-06T00:00:00</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -185,13 +160,13 @@ This mod gives the posibility to change the battle ,field and worldmap models of
       <Link>https://forums.qhimm.com/index.php?topic=20644.0</Link>
       <LatestVersion>
         
-        <Link>iros://MegaSharedFolder/folder/25QlBSZI#aqc7h1kXH9kkfX6TYsnOAQ,Dt4XSKzD,Mod Des-Enlace_Eng.iro</Link>
+        <Link>iros://GDrive/1Opz7O9eun2ZbwS8DrOziIvQRcpUmMG3g</Link>
         <Version>0.9495</Version>
         <ReleaseDate>2023-12-12T00:00:00</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://raw.githubusercontent.com/Markul91/Catalogo/fc15d020bad1798df8bf2de76434274506a350c6/Des_preview.png</PreviewImage><DownloadSize>1</DownloadSize>       </LatestVersion>
       <MetaVersion>0</MetaVersion>
-      <Name>Mod Des-Enlace (English-Beta)</Name>
+      <Name>Mod Des-Enlace (English)</Name>
       <Description> *This is a Spanish mod that I translate to English, the best as i could, so dont expect too much quality for the new dialogs,this is what it is :/ *
   **If you use other mods, the Mod Des-Enlace must be placed at the top of the list for it to work correctly, as it alters resources such as avatars, maps, models, etc. But it is optimized for the best possible compatibility with other activated mods.
  
@@ -209,7 +184,7 @@ For version 0.9, I have made a complete game from start to finish and I have not
       <Link>https://forums.qhimm.com/index.php?topic=20644.0</Link>
       <LatestVersion>
         
-        <Link>iros://MegaSharedFolder/folder/25QlBSZI#aqc7h1kXH9kkfX6TYsnOAQ,etpQkSTJ,Triple Triad 7.iro</Link>
+        <Link>iros://GDrive/1BvnFl6ZTfXIy7hwKBfnhU_6sQDL-1j-K</Link>
         <Version>2.1</Version>
         <ReleaseDate>2023-12-12T00:00:00</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -239,7 +214,7 @@ https://forums.qhimm.com/index.php?topic=20644.0
       <Link>http://forums.qhimm.com/index.php?topic=14938.0</Link>
       <LatestVersion>
         
-        <Link>iros://MegaSharedFolder/folder/25QlBSZI#aqc7h1kXH9kkfX6TYsnOAQ,,True necrosis ESP.iro</Link>
+        <Link>iros://GDrive/1aJBdy4ew6sk0Gi6IPYBFgr9hd3UL1wX1</Link>
         <Version>0</Version>
         <ReleaseDate>2022-06-12T00:00:00</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -256,7 +231,7 @@ https://forums.qhimm.com/index.php?topic=20644.0
       <Author>gjoerulv Traductor:Markul</Author>
       <Link>https://forums.qhimm.com/index.php?topic=27029.msg</Link>
       <LatestVersion>
-        <Link>iros://MegaSharedFolder/folder/25QlBSZI#aqc7h1kXH9kkfX6TYsnOAQ,,Hardcore ESP.iro</Link>
+        <Link>iros://GDrive/1gjSd9ITmOLfq4YXJJWVzqOW5wnFMfff7</Link>
         <Version>0</Version>
         <ReleaseDate>2007-06-23</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -273,7 +248,7 @@ https://forums.qhimm.com/index.php?topic=20644.0
       <Author>Sega Chief Traductor: Markul</Author>
       <Link>https://www.nexusmods.com/finalfantasy7/mods/121</Link>
       <LatestVersion>
-        <Link>iros://MegaSharedFolder/folder/25QlBSZI#aqc7h1kXH9kkfX6TYsnOAQ,,nt2esp.iro</Link>
+        <Link>iros://GDrive/1SYvfyAiLQPjlcVzY1xDi2qv_3lPs1T9q</Link>
         <Version>2.099998</Version>
         <ReleaseDate>2024-08-16</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
